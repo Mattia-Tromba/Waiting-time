@@ -1,0 +1,19 @@
+{
+  "tipoAzione": "Canestro",
+  "punti": 2,
+  "inizio": "10:26",
+  "fine": "10:27",
+  "giocatore": {
+    "nome": "LaMelo",
+    "cognome": "Ball",
+    "squadra": "Hornets",
+    "numeroMaglia": 1
+  },
+  "partita": {
+    "squadraCasa": "Hornets",
+    "squadraTrasferta": "Warriors",
+    "punteggioCasa": 125,
+    "punteggioTrasferta": 112,
+    "data": "2026, 30, 1"
+  }
+}
